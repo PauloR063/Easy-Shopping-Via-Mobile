@@ -32,6 +32,6 @@ Uma breve descrição do projeto (o que ele faz e sua importância).
 <div style="text-align: center;" align="center">
   <img src="https://github.com/PauloR063/Easy-Shopping-Via-Mobile/blob/main/assets/Celular.png?raw=true" alt="Descrição da Imagem 1" width="200">
   <br>
-  <img src="https://github.com/PauloR063/Easy-Shopping-Via-Mobile/blob/main/Easy%20Shopping%20Via%20Mobile/assets/Desktop%202.png?raw=true" alt="Descrição da Imagem 2" width="400">
+  <img src="https://github.com/PauloR063/Easy-Shopping-Via-Mobile/blob/main/assets/Desktop%202.png?raw=true" alt="Descrição da Imagem 2" width="400">
 </div>
 
